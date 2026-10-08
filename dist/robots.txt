@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://japan-daily-brief.yujishimizu.chatgpt.site/sitemap.xml
+Sitemap: https://shimizu510.github.io/japan-daily-brief/sitemap.xml
