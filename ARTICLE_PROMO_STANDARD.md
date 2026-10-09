@@ -14,3 +14,5 @@ Every daily homepage must also include:
 - The shared `.mobile-promo-bar` on the homepage at 850px and narrower.
 
 The desktop article sidebar must fit both the TikTok and DraMap calls to action inside a typical 768px-tall content viewport. Keep its portrait compact and ensure `.article-aside .button` remains fully visible without requiring the reader to reach the bottom of the article.
+
+The homepage desktop promotion must remain fixed at the browser edge while scrolling. When there is not enough width to keep it away from editorial copy, switch to the shared mobile promotion bar early; promotional UI must never cover article or homepage text.
