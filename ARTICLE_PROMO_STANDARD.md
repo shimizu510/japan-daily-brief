@@ -16,3 +16,9 @@ Every daily homepage must also include:
 The desktop article sidebar must fit both the TikTok and DraMap calls to action inside a typical 768px-tall content viewport. Keep its portrait compact and ensure `.article-aside .button` remains fully visible without requiring the reader to reach the bottom of the article.
 
 The homepage desktop promotion must remain fixed at the browser edge while scrolling. When there is not enough width to keep it away from editorial copy, switch to the shared mobile promotion bar early; promotional UI must never cover article or homepage text.
+
+For safety, weather, disaster, health, crime, and other public-interest stories, place confirmed hazards, official guidance, and the reporting cutoff before narrative suspense. Use `.safety-note` near the top of the article and link to the live official source. Editorial curiosity must never delay actionable information.
+
+Every new `NewsArticle` must include canonical, Open Graph title/description/image/URL, `datePublished`, `dateModified`, author, publisher, image, and `mainEntityOfPage`. Add the production URL and JST `lastmod` to `dist/sitemap.xml`. Images lower in the article use lazy loading; all images have explicit dimensions, alt text, a subject/time distinction, credit, source, license, and any modification note.
+
+Required visual QA remains 1366×768, at least 1440×900, and 390×844 for both the homepage and main article. Verify the final desktop-sidebar width and first mobile-bar width around the 850px and 1200px breakpoints. The report must name only sizes actually rendered.
