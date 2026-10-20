@@ -3,7 +3,7 @@
 
   const comments = document.createElement('script');
   const siteRoot = location.pathname.includes('/japan-daily-brief/') ? '/japan-daily-brief' : '/japan-unfolded';
-  comments.src = siteRoot + '/comments.js?v=2';
+  comments.src = siteRoot + '/comments.js?v=3';
   comments.defer = true;
   document.head.appendChild(comments);
 
