@@ -5,6 +5,8 @@ Every new article must include the existing sticky article sidebar with Yuji's p
 - TikTok: **Watch LIVE Japan on TikTok**
 - DraMap: **Learn Japanese while playing**
 
+When a story includes a Japanese word of the day or naturally discusses language, signs, manga, conversation, or study, add one contextual link to **Japanese Training Lab** (`https://shimizu510.github.io/japanese-training-lab/`). Describe it accurately as free web practice with no signup required. Do not add it mechanically to unrelated news copy or replace the required DraMap and TikTok actions.
+
 For climate-attribution coverage, state whether figures are observations or model estimates, separate present warnings from retrospective analysis, and place a current official hazard link in the safety note. Original data graphics must name the issuing body and date, and must not resemble documentary photography.
 
 Use the production URLs already present in the site. Keep the sidebar visible while a desktop reader scrolls. On screens 850px wide or narrower, every article must include the shared `.mobile-promo-bar`: Yuji's portrait, a direct `LIVE Japan` TikTok button, and a direct `Learn Japanese` DraMap button. Both buttons must remain visible even on narrow phones. Reserve bottom space with the safe-area inset so the bar never covers article text, links, video controls, or the iPhone home indicator. Do not create an article without Yuji's face, the TikTok LIVE Japan promise, and the DraMap Japanese-learning promise.
