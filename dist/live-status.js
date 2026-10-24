@@ -140,6 +140,20 @@
     return fields && fields[key] && fields[key][type];
   }
 
+  function addVocabularyPracticeLink() {
+    const word = document.querySelector('.word');
+    if (!word || word.querySelector('.word-practice')) return;
+    const link = document.createElement('a');
+    link.className = 'word-practice';
+    link.href = 'https://shimizu510.github.io/japanese-training-lab/learn/n3/vocabulary/';
+    link.textContent = 'Practice N3 Japanese vocabulary free ↗';
+    link.style.cssText = 'display:block;margin-top:16px;padding:12px 14px;background:#b42b23;color:#fff;font-size:12px;font-weight:900;text-align:center;text-decoration:none';
+    const note = document.createElement('small');
+    note.textContent = 'No signup · Continue the same learning route in DraMap';
+    note.style.cssText = 'display:block;margin-top:8px;color:#626862;font-size:10px;text-align:center';
+    word.append(link, note);
+  }
+
   async function refreshLiveStatus() {
     try {
       // Firestore's get-document REST endpoint rejects unknown query
@@ -157,6 +171,7 @@
     }
   }
 
+  addVocabularyPracticeLink();
   refreshLiveStatus();
   setInterval(refreshLiveStatus, 45000);
   document.addEventListener('visibilitychange', function () {
