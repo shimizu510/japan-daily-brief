@@ -27,6 +27,8 @@ Every new `NewsArticle` must include canonical, Open Graph title/description/ima
 
 Required visual QA remains 1366×768, at least 1440×900, and 390×844 for both the homepage and main article. Verify the final desktop-sidebar width and first mobile-bar width around the 850px and 1200px breakpoints. The report must name only sizes actually rendered.
 
+For an active weather story, the homepage standfirst and the article's opening safety note must distinguish forecast maxima from observed rainfall, include a reporting cutoff in JST, and link directly to JMA's live warnings and rain radar. A cyclone's downgrade or extratropical transition must never be presented as an all-clear; explain the remaining front, river and landslide hazards before narrative analysis.
+
 Daily editions should preserve at least four earlier-edition links on the homepage and add contextual links from each new long-form article to at least one existing article. Historical or general reference images must say explicitly in the visible caption that they do not depict the current event. A large month-on-month percentage from a volatile or small industry base must be labeled as such rather than presented as a national trend.
 
 The homepage navigation and earlier-editions strip must also link to `archive.html`. The archive is the complete public index of every story, grouped by publication month and ordered newest first. Every new article must be added to the archive with its visible publication date and category, and the displayed total and monthly count must be updated. Keep all stories visible within their month; introduce numbered pagination only when a month becomes unwieldy, and never remove older pages from navigation or the sitemap.
