@@ -25,6 +25,8 @@ For safety, weather, disaster, health, crime, and other public-interest stories,
 
 Every new `NewsArticle` must include canonical, Open Graph title/description/image/URL, `datePublished`, `dateModified`, author, publisher, image, and `mainEntityOfPage`. Add the production URL and JST `lastmod` to `dist/sitemap.xml`. Images lower in the article use lazy loading; all images have explicit dimensions, alt text, a subject/time distinction, credit, source, license, and any modification note.
 
+When a breach figure is cumulative records rather than unique people, label that distinction in the headline area, opening section, data graphic and caption. Separate confirmed export evidence, potential exposure, confirmed misuse and public disclosure; never collapse them into a single claim that a stated number of people "were hacked."
+
 Required visual QA remains 1366×768, at least 1440×900, and 390×844 for both the homepage and main article. Verify the final desktop-sidebar width and first mobile-bar width around the 850px and 1200px breakpoints. The report must name only sizes actually rendered.
 
 For an active weather story, the homepage standfirst and the article's opening safety note must distinguish forecast maxima from observed rainfall, include a reporting cutoff in JST, and link directly to JMA's live warnings and rain radar. A cyclone's downgrade or extratropical transition must never be presented as an all-clear; explain the remaining front, river and landslide hazards before narrative analysis.

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">51,628,280 email-service records across 49 systems</title>
+  <desc id="desc">Editorial data graphic showing one mail platform branching into 49 affected systems and a reported total of 51,628,280 records at risk.</desc>
+  <rect width="1200" height="800" fill="#142019"/>
+  <text x="70" y="90" fill="#c9a85c" font-family="Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="4">ONE MAIL PLATFORM · MANY ORGANIZATIONS</text>
+  <text x="70" y="275" fill="#f6f2e9" font-family="Georgia, serif" font-size="126" letter-spacing="-6">51,628,280</text>
+  <text x="75" y="330" fill="#b9c4bd" font-family="Arial, sans-serif" font-size="31">records reported as potentially leaked · cumulative, not unique people</text>
+  <path d="M165 478 H1035" stroke="#c9a85c" stroke-width="4"/>
+  <circle cx="165" cy="478" r="22" fill="#a33d35"/><circle cx="455" cy="478" r="22" fill="#a33d35"/><circle cx="745" cy="478" r="22" fill="#a33d35"/><circle cx="1035" cy="478" r="22" fill="#a33d35"/>
+  <path d="M165 500 V590 M455 500 V590 M745 500 V590 M1035 500 V590" stroke="#c9a85c" stroke-width="3"/>
+  <text x="165" y="640" text-anchor="middle" fill="#f6f2e9" font-family="Georgia, serif" font-size="54">49</text><text x="165" y="678" text-anchor="middle" fill="#b9c4bd" font-family="Arial, sans-serif" font-size="20">systems with exports</text>
+  <text x="455" y="640" text-anchor="middle" fill="#f6f2e9" font-family="Georgia, serif" font-size="54">42</text><text x="455" y="678" text-anchor="middle" fill="#b9c4bd" font-family="Arial, sans-serif" font-size="20">newly identified systems</text>
+  <text x="745" y="640" text-anchor="middle" fill="#f6f2e9" font-family="Georgia, serif" font-size="54">16</text><text x="745" y="678" text-anchor="middle" fill="#b9c4bd" font-family="Arial, sans-serif" font-size="20">counts still under review</text>
+  <text x="1035" y="640" text-anchor="middle" fill="#f6f2e9" font-family="Georgia, serif" font-size="54">0</text><text x="1035" y="678" text-anchor="middle" fill="#b9c4bd" font-family="Arial, sans-serif" font-size="20">confirmed public misuse</text>
+  <text x="70" y="755" fill="#7f8e85" font-family="Arial, sans-serif" font-size="17">JAPAN DAILY BRIEF · EDITORIAL GRAPHIC · SOURCE: YMIRLINK SECOND REPORT, OCT. 26, 2026</text>
+</svg>

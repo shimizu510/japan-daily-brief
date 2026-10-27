@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Tokyo International Film Festival 2026 by the numbers</title>
+  <desc id="desc">Editorial poster-style graphic showing 204 films, 112 countries and regions, 35 world premieres, and nine new animation works.</desc>
+  <rect width="1200" height="800" fill="#f1eadc"/>
+  <rect x="56" y="55" width="1088" height="690" fill="none" stroke="#142019" stroke-width="6"/>
+  <text x="90" y="125" fill="#a33d35" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="5">TOKYO · OCT 26—NOV 4 · 39TH EDITION</text>
+  <text x="82" y="390" fill="#142019" font-family="Georgia, serif" font-size="260" letter-spacing="-15">204</text>
+  <text x="730" y="320" fill="#142019" font-family="Georgia, serif" font-size="74">films</text>
+  <text x="735" y="385" fill="#5a625d" font-family="Arial, sans-serif" font-size="26">inside one Tokyo festival</text>
+  <line x1="90" y1="470" x2="1110" y2="470" stroke="#142019" stroke-width="3"/>
+  <text x="110" y="560" fill="#a33d35" font-family="Georgia, serif" font-size="68">112</text><text x="110" y="602" fill="#5a625d" font-family="Arial, sans-serif" font-size="19">countries &amp; regions</text>
+  <text x="470" y="560" fill="#a33d35" font-family="Georgia, serif" font-size="68">35</text><text x="470" y="602" fill="#5a625d" font-family="Arial, sans-serif" font-size="19">world premieres</text>
+  <text x="790" y="560" fill="#a33d35" font-family="Georgia, serif" font-size="68">9</text><text x="790" y="602" fill="#5a625d" font-family="Arial, sans-serif" font-size="19">new animation works</text>
+  <text x="90" y="700" fill="#8b8175" font-family="Arial, sans-serif" font-size="17">JAPAN DAILY BRIEF · EDITORIAL GRAPHIC · SOURCE: 39TH TIFF OFFICIAL LINEUP</text>
+</svg>
